@@ -60,8 +60,6 @@ rotate ([0,0,45])translate ([70,-70.4,0])cube ([25,25,10]);
 
 ```
 
-![](https://github.com/soda-io/DNA/Img/ДНК.png
-
 
 ===================
 
