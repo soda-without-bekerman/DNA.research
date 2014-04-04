@@ -76,7 +76,7 @@ rotate ([0,0,45])translate ([70,-70.4,0])cube ([25,25,10]);
 
 ## ==Технологии ==
 
-* OpenSCAD
-* Repieter Host
-* 3D printer MendelMax
+* **OpenSCAD**
+* **Repieter Host**
+* **3D printer MendelMax**
 
