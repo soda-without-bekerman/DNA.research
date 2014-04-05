@@ -1,4 +1,4 @@
-# ![](https://avatars3.githubusercontent.com/u/4658189?s=30) == DNA Research | ДНК Исследование == ![](https://avatars3.githubusercontent.com/u/4658189?s=30)
+# ![](https://avatars3.githubusercontent.com/u/4658189?s=30) == DNA Research == ![](https://avatars3.githubusercontent.com/u/4658189?s=30)
 ===========
 
 ## == ЦЕЛИ ==
