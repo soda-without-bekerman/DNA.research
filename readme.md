@@ -104,6 +104,7 @@ translate ([0,50,0]){
 
 
 ```
+![](https://github.com/soda-io/DNA/blob/master/Img/3D/%D0%90%D0%B4%D0%B5%D0%BD%D0%B8%D0%BD%20%D0%B8%20%D0%A2%D0%B8%D0%BC%D0%B8%D0%BD.png?raw=true)
 
 
 
