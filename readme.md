@@ -84,7 +84,7 @@ rs2710875	  1	        967643	         TT
 rs2465136	  1	        980280	         TT
 rs2488991	  1	        984254	         GT
 ```
-!хъ(https://github.com/soda-io/DNA/blob/master/Img/3D/manu.jpg?raw=true)
+![](https://github.com/soda-io/DNA/blob/master/Img/3D/manu.jpg?raw=true)
 
 ### === КОД МОДЕЛИ ===
 
