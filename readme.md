@@ -92,13 +92,13 @@ translate ([0,50,0]){
 
 
 ```
-![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin%20&%20Timin.png?raw=true)
+![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/AdeninAndTimin.png?raw=true)
 
 
 
 ## == CТРУКТУРА ДЛЯ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
 
-![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin%20&%20Timin.png?raw=true)
+![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/manu.jpg?raw=true)
 
 
 ===================
