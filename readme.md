@@ -96,7 +96,7 @@ translate ([0,50,0]){
 
 
 
-## == CТРУКТУРА ДЛЯ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
+## == CТРУКТУРА ДЛЯ 3D-МОДЕЛЕЙ ==
 
 ![](https://github.com/soda-io/DNA.research/blob/master/Img/docs/DNA_3Dmodel_Structure.jpg?raw=true)
 
