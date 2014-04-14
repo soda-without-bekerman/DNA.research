@@ -120,7 +120,8 @@ translate ([0,50,0]){
 ## === ИСТОЧНИКИ ===
   
 ####  WWW
-
+ 
+ 1. **[Thingiverse](http://www.thingiverse.com/thing:298475/#files)**
  1. **[Slideshare](http://www.slideshare.net/sheriakosh/ss-33235731)**
  1. **[SNPedia](www.snpedia.com)**
  1. **[GitHub](https://github.com)**
