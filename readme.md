@@ -1,5 +1,5 @@
 #![](https://avatars3.githubusercontent.com/u/4658189?s=30) [ DNA Research](https://github.com/soda-io/DNA/)
-***
+
 
 # Что привело меня к исследованию? 
 
@@ -26,33 +26,6 @@
 |	        |  **▢**      |***HACKATHON > DEMO DAY***|
 |      29.04    |  **▢**      |***EVENT***|
 |               |  **▢**      |**coming soon ...**|
-
-***
-
-## == СОАВТОРЫ ==
-
-
-## {У}
-
-|    |    |    |    |
-|----|----|----|----|
-|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
-| [Leonid P](https://github.com/leonidprokopovich) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)|  [Sheroz K](https://github.com/SherozKarimov)  
-
-
-## {Т}
-
-|    |  
-|----|
-|![Inna Chechikova](https://pbs.twimg.com/profile_images/2351222123/4hkg9tbwsz8zzztcrqkf_bigger.jpeg)|
-|[Inna Chechikova](https://twitter.com/Unsa2003)|
-
-## {M}  
-
-|    |    | 
-|----|----|
-|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
-|[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
 
 ***
 
@@ -144,3 +117,35 @@ translate ([0,50,0]){
  1. **[Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0)**
  1. **[23andme](www.23andme.com)**
  1. **[3D Industry](http://www.3dindustry.ru/article/571/)**
+
+
+## == СОАВТОРЫ ==
+
+
+### {У}
+
+|    |    |    |    |
+|----|----|----|----|
+|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
+| [Leonid P](https://github.com/leonidprokopovich) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)|  [Sheroz K](https://github.com/SherozKarimov)  
+
+
+### {Т}
+
+|    |  
+|----|
+|![Inna Chechikova](https://pbs.twimg.com/profile_images/2351222123/4hkg9tbwsz8zzztcrqkf_bigger.jpeg)|
+|[Inna Chechikova](https://twitter.com/Unsa2003)|
+
+### {M}  
+
+|    |    | 
+|----|----|
+|![Kirill Temnov](https://avatars1.githubusercontent.com/u/147170?s=74) | ![Vitaly GB](https://avatars0.githubusercontent.com/u/842476?s=74) |
+|[Kirill T](https://github.com/KirillTemnov) |[Vitaly GB](https://github.com/VitalyGB)
+
+***
+
+## == АВТОРСКИЕ ПРАВА ==
+
+Copyright (c) 2014 SODA LABS. The MIT License (MIT).
