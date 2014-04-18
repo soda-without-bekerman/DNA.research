@@ -31,7 +31,7 @@ color("Orange")translate ([-37,21,5]) rotate([0,90,0]) cylinder (70,p,p);
 translate ([-37.1,21,5])rotate ([0,90,0])cylinder (3.5,5,5);
  }
 }
-//трубы возле крсного фигуры "не получается переместить"
+//трубы "не получается переместить"
 translate ([17.9,60,3]) {
 difference () {
 color("Orange") translate ([-47,6,5]) rotate([0,90,0]) cylinder (70,p,p);
