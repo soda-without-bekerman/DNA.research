@@ -52,8 +52,6 @@ rs2488991	     1	        984254	         GT
 
 **КОД МОДЕЛИ** 
 
-![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/AdeninAndTimin.png?raw=true)
-
 ```
 //Азотистые основания:
 
@@ -73,6 +71,8 @@ color("Orange") translate ([90,4,5]) rotate([0,90,0]) cylinder (55,4,4);
 color("Orange") translate ([90,31,5]) rotate([0,90,0]) cylinder (55,4,4);
 color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 ```
+
+![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin__Timin.png?raw=true)
 
 ***
 
