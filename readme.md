@@ -117,6 +117,7 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
  1. **[23andme](www.23andme.com)**
  1. **[3D Industry](http://www.3dindustry.ru/article/571/)**
  2. **[Heather Dewey-Hagborg GitHub](https://github.com/hdeweyh/strangerVisions)**
+ 3. **[L!FENEWS](http://lifenews.ru/news/131474)**
 
 ***
 
