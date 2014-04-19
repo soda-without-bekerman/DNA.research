@@ -57,21 +57,21 @@
 </tr>
 <tr>
 <td align="left"></td>
-<td align="center"><strong>▢</strong></td>
+<td align="center"><strong>✓</strong></td>
 <td><strong>Собрать информацию о 3D - модели ДНК</strong></td>
 </tr>
 <tr>
-<td align="left"></td>
+<td align="left">28.04</td>
 <td align="center"><strong>▢</strong></td>
 <td><strong>Приготовить/Скомпоновать текст/картинки</strong></td>
 </tr>
 <tr>
-<td align="left"></td>
+<td align="left">26.04</td>
 <td align="center"><strong>▢</strong></td>
 <td><strong><code>readme &gt; faq &gt; DNA.github.io</code></strong></td>
 </tr>
 <tr>
-<td align="left"></td>
+<td align="left">27.04</td>
 <td align="center"><strong>▢</strong></td>
 <td><strong>Записать на диктофон pitch.mp3</strong></td>
 </tr>
@@ -84,6 +84,11 @@
 <td align="left">28.04</td>
 <td align="center"><strong>▢</strong></td>
 <td><strong>Напечатать модели на 3D-принтере</strong></td>
+</tr>
+<tr>
+<td align="left">28.04</td>
+<td align="center"><strong>▢</strong></td>
+<td><strong>Перенести данные по генам в <code>JSON</code></strong></td>
 </tr>
 <tr>
 <td align="left"></td>
@@ -129,27 +134,31 @@ rs2488991        1          984254           GT
 
 <hr><p><strong>КОД МОДЕЛИ</strong> </p>
 
-<p><img src="https://github.com/soda-io/DNA.research/blob/master/Img/3D/AdeninAndTimin.png?raw=true" alt=""></p>
-
 <pre><code>//Азотистые основания:
 
 //Аденин
 difference (){
-  cube ([100,35,10]);
-  rotate ([0,0,45])translate ([70,-80,-1])  cube ([35,35,12]);
+color("Lime") cube ([100,35,10]);
+rotate ([0,0,45])translate ([70,-80,-1])cube ([35,35,12]);
 }
 
 //Тимин
 translate ([0,50,0]){
-  cube ([100,35,10]);
-  rotate ([0,0,45])translate ([70,-70.4,0])  cube ([25,25,10]);
+color("Aqua") cube ([100,35,10]);
+color("Aqua") rotate ([0,0,45])translate ([70,-70.4,0])cube ([25,25,10]);
 }
+//Связи между основаниями
+color("Orange") translate ([90,4,5]) rotate([0,90,0]) cylinder (55,4,4);
+color("Orange") translate ([90,31,5]) rotate([0,90,0]) cylinder (55,4,4);
+color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 </code></pre>
+
+<p><img src="https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin__Timin.png?raw=true" alt=""></p>
 
 <hr><h2>
 <a name="-c%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%94%D0%9B%D0%AF-3d-%D0%9C%D0%9E%D0%94%D0%95%D0%9B%D0%95%D0%99-" class="anchor" href="#-c%D0%A2%D0%A0%D0%A3%D0%9A%D0%A2%D0%A3%D0%A0%D0%90-%D0%94%D0%9B%D0%AF-3d-%D0%9C%D0%9E%D0%94%D0%95%D0%9B%D0%95%D0%99-"><span class="octicon octicon-link"></span></a>== CТРУКТУРА ДЛЯ 3D-МОДЕЛЕЙ ==</h2>
 
-<p><img src="https://github.com/soda-io/DNA.research/blob/master/Img/docs/dna3.jpg?raw=true" alt=""></p>
+<p><img src="https://github.com/soda-io/DNA.research/blob/master/Img/docs/dna4.jpg?raw=true" alt=""></p>
 
 <hr><h2>
 <a name="-%D0%A0%D0%98%D0%A1%D0%9A%D0%98-" class="anchor" href="#-%D0%A0%D0%98%D0%A1%D0%9A%D0%98-"><span class="octicon octicon-link"></span></a>== РИСКИ ==</h2>
