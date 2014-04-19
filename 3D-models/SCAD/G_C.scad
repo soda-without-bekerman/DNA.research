@@ -4,8 +4,8 @@ g=12;
 $fn=270;
 scale  ([1.1,1.2,1.3]) {
 difference (){
-color("MediumPurple") cube ([100,35,g]);
-color("MediumPurple") translate ([0,17.5,-1]) cylinder (15,17.5,17.5);
+color("MediumPurple") translate ([-17.5,0,0]) cube ([120,35,g]);
+color("MediumPurple") translate ([-17.5,17.5,-1]) cylinder (15,17.5,17.5);
 }
 
 translate ([0,50,0]){
