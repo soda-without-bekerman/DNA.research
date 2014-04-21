@@ -99,8 +99,8 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 
 ## == ОБОРУДОВАНИЕ ==
  * **3D printers:** 
- * **MendelMax 1.5+**
- * **PP3DP**
+   * **MendelMax 1.5+**
+   * **PP3DP**
 
 
 ***
