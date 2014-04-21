@@ -116,15 +116,15 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
  
 ####  digital / paper
  
- 1. **[Thingiverse](http://www.thingiverse.com/thing:298475/#files)**
- 1. **[Slideshare](http://www.slideshare.net/sheriakosh/ss-33235731)**
- 1. **[SNPedia](www.snpedia.com)**
- 1. **[GitHub](https://github.com)**
- 1. **[Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0)**
- 1. **[23andme](www.23andme.com)**
- 1. **[3D Industry](http://www.3dindustry.ru/article/571/)**
- 2. **[Heather Dewey-Hagborg GitHub](https://github.com/hdeweyh/strangerVisions)**
- 3. **[L!FENEWS](http://lifenews.ru/news/131474)**
+ 1. [Slideshare](http://www.slideshare.net/sheriakosh/ss-33235731)
+ 1. [SNPedia](www.snpedia.com)
+ 1. [GitHub](https://github.com)
+ 1. [Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0)
+ 1. [23andme](www.23andme.com)
+ 1. [3D Industry](http://www.3dindustry.ru/article/571/)
+ 1. [Thingiverse](http://www.thingiverse.com/thing:298475/#files)
+ 1. [Heather Dewey-Hagborg / GitHub](https://github.com/hdeweyh/strangerVisions)
+ 1. [kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
 
 ***
 
