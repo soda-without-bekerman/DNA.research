@@ -1,41 +1,39 @@
 [
-{
-"SNPs data":
-{
-"rsid":"rs4477212",
+ {
+"rsid"      :"rs4477212",
 "chromosome":"1",
-"position":"82154",
-"genotype":"AA",
+"position"  :"82154",
+"genotype"  :"AA",
 },
 {
-"rsid":"rs3094315",
+"rsid"      :"rs3094315",
 "chromosome":"1",
-"position":"752566",
-"genotype":"AG",
+"position"  :"752566",
+"genotype"  :"AG",
 },
 {
-"rsid":"rs3131972",
+"rsid"      :"rs3131972",
 "chromosome":"1",
-"position":"752721",
-"genotype":"AG",
+"position"  :"752721",
+"genotype"  :"AG",
 },
 {
-"rsid":"rs12124819",
+"rsid"      :"rs12124819",
 "chromosome":"1",
-"position":"776546",
-"genotype":"AA",
+"position"  :"776546",
+"genotype"  :"AA",
 },
 {
-"rsid":"rs11240777",
+"rsid"      :"rs11240777",
 "chromosome":"1",
-"position":"798959",
-"genotype":"AG",
+"position"  :"798959",
+"genotype"  :"AG",
 },
 {
-"rsid":"rs6681049",
+"rsid"      :"rs6681049",
 "chromosome":"1",
-"position":"800007",
-"genotype":"CC",
+"position"  :"800007",
+"genotype"  :"CC",
 },
 ]
 
