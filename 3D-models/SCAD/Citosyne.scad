@@ -9,11 +9,12 @@ color("MediumPurple") translate ([0, 0, 0]) cube ([x, y, z-2], center=true);
 color("Red") translate ([-30, y/200000, -4]) cylinder (z, y/2, y/2);                
             
  }            
-#rotate([0, 90, 0]) translate([0,0,-23]) cylinder(5,2.65,2.65); 
-translate([-10, -10.5, -1]) cube([50, 21, 5]);
+rotate([0, 90, 0]) translate([0,0,-23]) cylinder(5,2.65,2.65); 
+translate([-10, -10.5, 0]) cube([50, 21, 4]);
 }
 
-rotate([90,0,0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
+#rotate([90, 0, 0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
+
 
 
 
@@ -23,10 +24,18 @@ rotate([90,0,0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
 
 rotate([90, 0, 0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
 difference() { 
-  translate([20, -9.5, -3.45]) cube([20, 19, 7]);
+  #translate([27.1, -9.5, -3.45]) cube([12.5, 19, 7]);
   #rotate([0, 90, 0]) translate([0, 4.5, 36.5]) cylinder(9, 2.65, 2.65);
 
   #rotate([0, 90, 0]) translate([0, -4.5, 36.5]) cylinder(9, 2.65, 2.65);
 }
+
+#rotate([90, 0, 0]) translate([27.4, 0, -9.5]) cylinder(19, 3.5, 3.5);
+
+//буква Ц
+  #translate([11, -7, 0]) cube([2, 12, 2]);
+  #translate([4, -7, 0]) cube([2, 12, 2]);
+  #translate([1, 3, 0]) cube([11, 2, 2]);
+  #translate([1, 3, 0]) cube([2, 4.5, 2]);
 
 
