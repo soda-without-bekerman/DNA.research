@@ -22,6 +22,10 @@ translate([-3, 0, 1.1]) cube([40, 21, 5], center=true);
 } 
 rotate([90, 0, 0]) color("red") translate([-23, 0, -9.5]) cylinder(19, 3.5, 3.5);
 rotate([90, 0, 0]) color("red") translate([17.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
+//буква Г
+translate([-6, -6, 0,]) cube([6, 2, 2]);
+translate([0, -6, 0,]) cube([2, 12, 2]);
+  
 
 
 
