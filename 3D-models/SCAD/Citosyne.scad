@@ -9,11 +9,11 @@ color("MediumPurple") translate ([0, 0, 0]) cube ([x, y, z-2], center=true);
 color("Red") translate ([-30, y/200000, -4]) cylinder (z, y/2, y/2);                
             
  }            
-#rotate([0, 90, 0]) translate([0, 0, -23]) cylinder(5, 2.65, 2.65); 
+#rotate([0, 90, 0]) translate([0,0,-23]) cylinder(5,2.65,2.65); 
 translate([-10, -10.5, -1]) cube([50, 21, 5]);
 }
 
-rotate([90, 0, 0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
+rotate([90,0,0]) translate([-10.5, 0, -9.5]) cylinder(19, 3.5, 3.5);
 
 
 
