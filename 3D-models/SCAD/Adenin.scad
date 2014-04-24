@@ -51,9 +51,9 @@ difference(){
 #rotate([90, 0, 0]) translate([-3, 0, -10.5]) cylinder(21, 3.5, 3.5);
 #rotate([90, 0, 0]) translate([34, 0, -10.5]) cylinder(21, 3.5, 3.5);
 //Буква А
- translate([p, -7.55, 0]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
- translate([p, -6.8, 2]) rotate ([45, 90, 22]) cube ([2, 16, 2]);
- translate([p-3.8, 2, 0]) cube ([9, 2, 2]);
+ translate([p, -7.55, 0-1]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
+ translate([p, -6.8, 2-1]) rotate ([45, 90, 22]) cube ([2, 16, 2]);
+ translate([p-3.8, 2, 0-1]) cube ([9, 2, 2]);
 
 
 
