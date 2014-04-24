@@ -65,7 +65,37 @@
 "position"  :"873558",
 "genotype"  :"TT",
 },
-
+{
+"rsid"      :"rs2272756",
+"chromosome":"1",
+"position"  :"882033",
+"genotype"  :"GG"
+},
+{
+"rsid"      :"rs3748597",
+"chromosome":"1",
+"position"  :"888659",
+"genotype"  :"CT"
+},
+{
+"rsid"      :"rs13303106",
+"chromosome":"1",
+"position"  :"891945",
+"genotype"  :"AG"
+},
+{
+"rsid"      :"rs28415373",
+"chromosome":"1",
+"position"  :"893981",
+"genotype"  :"CC"
+},
+{
+"rsid"      :"rs13303010",
+"chromosome":"1",
+"position"  :"894573",
+"genotype"  :"AG"
+},
 ]
+
 
 
