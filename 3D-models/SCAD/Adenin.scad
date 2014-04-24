@@ -8,43 +8,42 @@ edge=13.49;
 dx=19.0209;   
 p=14;  //Перемещине буквы А по плоскости
 //Аденин                
-difference(){
+difference() {
  translate ([dx/2, t, 0]){                                       
-  difference(){ 
+  difference() { 
     color() translate ([0, 0, 0]) cube ([x, y, z],center=true);                      
-    rotate([180, 180, 0]) translate([41, 0, 0])
+     rotate([180, 180, 0]) translate([41, 0, 0])
 
-union(){       
+     union() {       
 
- difference(){
+     difference() {
+ 
+      union() {
 
-union(){
+    translate ([dx/2, t, 0]) {   
 
- translate ([dx/2, t, 0]) {   
+     color() translate ([0, 0, 5]) cube ([x-dx/2, y, z+4], center=true);    
 
-  color() translate ([0, 0, 5]) cube ([x-dx/2, y, z+4], center=true);    
+      translate([-25, 0, 0]) color() rotate ([0, 0, 45]) cube ([15, 15, z+2], center=true);     
 
-  translate([-25, 0, 0]) color() rotate ([0, 0, 45]) cube ([15, 15, z+2], center=true);     
-
-   translate([24.78, -9.5, -1]) cube([10, 19, 5]);
-}
-}   
+       translate([24.78, -9.5, -1]) cube([10, 19, 5]);
+  }
+ }   
 	translate([-32, 0, 0]) cube([21, 21, 10],center=true);
 
-translate([-10, -10.5, 2]) cube([50, 21, 5]);
+   translate([-10, -10.5, 2]) cube([50, 21, 5]);
+  } 
+
+
+ }
+ #rotate([0, 90, 0]) translate([0, 0, -23]) cylinder(6, 2.65, 2.65);
+   translate([-13, -10.5, -1]) cube([39, 21, 5]);
+  }       
+ } 
 }
+difference() {
 
-
-}
-#rotate([0, 90, 0]) translate([0, 0, -23]) cylinder(6, 2.65, 2.65);
-translate([-13, -10.5, -1]) cube([39, 21, 5]);
-}       
-
-} 
-}
-difference(){
-
-#translate([34,-10.5,-3.45]) cube([13, 21, 7]);
+#translate([34, -10.5, -3.45]) cube([13, 21, 7]);
 #rotate([0, 90, 0]) translate([0, -5, 45]) cylinder(5, 2.65, 2.65);
 #rotate([0, 90, 0]) translate([0, 5, 45]) cylinder(5, 2.65, 2.65);
 }
