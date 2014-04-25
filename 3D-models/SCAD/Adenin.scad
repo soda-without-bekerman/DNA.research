@@ -11,7 +11,7 @@ p=14;  //Перемещине буквы А по плоскости
 difference() {
  translate ([dx/2, t, 0]){                                       
   difference() { 
-    color() translate ([0, 0, 0]) cube ([x, y, z], center=true);                      
+    #color() translate ([3, 0, 0]) cube ([x+7, y, z], center=true);                      
      rotate([180, 180, 0]) translate([41, 0, 0])
 
      union() {       
@@ -35,19 +35,19 @@ difference() {
   } 
 
  }
- #rotate([0, 90, 0]) translate([0, 0, -22]) cylinder(6, 2.67, 2.67);
+ #rotate([0, 90, 0]) translate([0, 0, -23]) cylinder(6, 2.67, 2.67);
    translate([-13, -10.5, -1]) cube([39, 21, 5]);
   }       
  } 
 }
 difference() {
 
-  translate([34, -10.5, -3.45]) cube([13, 21, 7]);
-   #rotate([0, 90, 0]) translate([0, -5, 44]) cylinder(5, 2.67, 2.67);
-    #rotate([0, 90, 0]) translate([0, 5, 44]) cylinder(5, 2.67, 2.67);
+  #translate([39, -10.5, -3.45]) cube([13, 21, 7]);
+   #rotate([0, 90, 0]) translate([0, -5, 48.5]) cylinder(5, 2.67, 2.67);
+    #rotate([0, 90, 0]) translate([0, 5, 48.5]) cylinder(5, 2.67, 2.67);
  }
-  #rotate([90, 0, 0]) translate([-3, 0, -10.5]) cylinder(21, 3.5, 3.5);
-   #rotate([90, 0, 0]) translate([34, 0, -10.5]) cylinder(21, 3.5, 3.5);
+  #rotate([90, 0, 0]) translate([-4, 0, -10.5]) cylinder(21, 3.5, 3.5);
+   #rotate([90, 0, 0]) translate([36, 0, -10.5]) cylinder(21, 3.5, 3.5);
 //Буква А 
 difference() {
 union () {
@@ -58,7 +58,6 @@ union () {
  translate([p-6, -9, -2]) cube ([15, 2, 4]);
    translate([p-6, 7.1, -2]) cube ([15, 2, 4]);
 }
-
 
 
 
