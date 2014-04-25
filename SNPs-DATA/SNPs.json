@@ -95,6 +95,43 @@
 "position"  :"894573",
 "genotype"  :"AG",
 },
+{
+"rsid"      :"rs6696281",
+"chromosome":"1",
+"position"  :"903104",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs28391282",
+"chromosome":"1",
+"position"  :"904165",
+"genotype"  :"GG",
+},
+{
+"rsid"      :"rs2340592",
+"chromosome":"1",
+"position"  :"910935",
+"genotype"  :"GG",
+},
+{
+"rsid"      :"rs13303118",
+"chromosome":"1",
+"position"  :"918384",
+"genotype"  :"GT",
+},
+{
+"rsid"      :"rs6665000",
+"chromosome":"1",
+"position"  :"924898",
+"genotype"  :"AA",
+},
+{
+"rsid"      :"rs2341362",
+"chromosome":"1",
+"position"  :"927309",
+"genotype"  :"CC",
+},
+
 ]
 
 
