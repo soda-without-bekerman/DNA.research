@@ -1,3 +1,5 @@
+#Data for SNPs DNA code of humans
+
 [
  {
 "rsid"      :"rs4477212",
@@ -131,6 +133,43 @@
 "position"  :"927309",
 "genotype"  :"CC",
 },
+{
+"rsid"      :"rs1361560",
+"chromosome":"1",
+"position"  :"56734654",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs2792793",
+"chromosome":"1",
+"position"  :"56735462",
+"genotype"  :"--",
+},
+{
+"rsid"      :"rs2792792",
+"chromosome":"1",
+"position"  :"56736013",
+"genotype"  :"TT",
+},
+{
+"rsid"      :"rs1581995",
+"chromosome":"1",
+"position"  :"56745004",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs12118755",
+"chromosome":"1",
+"position"  :"56750366",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs2211292",
+"chromosome":"1",
+"position"  :"56751380",
+"genotype"  :"CT",
+},
+
 
 ]
 
