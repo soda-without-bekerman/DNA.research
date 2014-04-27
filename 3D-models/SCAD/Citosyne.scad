@@ -34,7 +34,3 @@ difference() {
   #translate([11, -7, 0]) cube([2, 12, 2]);
   #translate([4, -7, 0]) cube([2, 12, 2]);
   #translate([1, 3, 0]) cube([11, 2, 2]);
-  #translate([1, 3, 0]) cube([2, 4.5, 2]);
-  
-  
-  
