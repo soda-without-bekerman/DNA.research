@@ -93,7 +93,7 @@ rs2488991	     1	        984254	         GT
 
 ***
 
-**КОД МОДЕЛИ** 
+#### Часть кода 3D - модели 
 
 ```
 //Аденин                
@@ -143,11 +143,13 @@ difference() {
 
 ```
 
+#### Модель в 3D
+
 ![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/ADENIN.png?raw=true)
 
 ***
 
-## == CТРУКТУРА ДЛЯ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
+## == МАКЕТ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
 
 ![](https://github.com/soda-io/DNA.research/blob/master/Img/docs/DNA_construction.jpg?raw=true)
 
@@ -216,7 +218,7 @@ difference() {
 
 |    |    |    |    |    |
 |----|----|----|----|----|
-|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|[!ArtemKvadzba](https://avatars2.githubusercontent.com/u/4639509?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
+|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![ArtemKvadzba](https://avatars2.githubusercontent.com/u/4639509?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
 | [Leonid P](https://github.com/leonidprokopovich) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)|[Artem K](https://github.com/ArtemKvadzba)|  [Sheroz K](https://github.com/SherozKarimov)  
 
 
