@@ -1,16 +1,18 @@
 #![](https://avatars3.githubusercontent.com/u/4658189?s=30) [ DNA Research](https://github.com/soda-io/DNA/) | [Исследование ДНК](https://github.com/soda-io/DNA/)
 
 
-# == Что нас привело к исследованию? ==
+#  Что нас привело к исследованию? 
+
 
 **Однажды, стало интересно, что такое ДНК код человека через {программирование}. 
-Нашел пару дельных репозиториев на [GitHub](https://github.com) > `fork` их ... и теперь делюсь с вами своим опытом )**
+Нашли пару дельных репозиториев на [GitHub](https://github.com) > `fork` их ... и теперь делимся с вами нашим исследованием **
+
 
 ***
 
 # == Наша цель ==
 
-Создать открытые данные по ДНК методом, `API` вызовов, также научиться работать с ДНК, создавая генетические анализы основываясь на ДНК кодах людей.
+**Создать открытые данные по ДНК методом, `API` вызовов, также научиться работать с ДНК, создавая генетические анализы основываясь на ДНК кодах людей, а также набор 3D - моделей ДНК (конструктор)/**
 
 
 ***
@@ -40,18 +42,18 @@
 **КОД ДНК**
 
 ```
-  rsid    chromosome     position       genotype      
+rsid  chromosome  position  genotype  designations      
   
-rs6657048	     1	        947503	         CC
-rs2710888	     1	        949705	         CT
+rs1333049	  9 	  22125503	   GC  -  Ишемическая болезнь сердца, у этого человека в 1.5 раза повышен риск заболевания.
+i3003626	  3	    46414947     II  -  устойчивость к Вич инфекциям, этот человек устойчив к ВИЧ инфекиям
 rs3128126	     1	        952073	         AG
 rs2710875	     1	        967643	         TT
 rs2465136	     1	        980280	         TT
 rs2488991	     1	        984254	         GT
 ```
 
->* **`rs6657048` - Наименование ОНП, то есть `id` номер**
->* **`1` - Хромосома содержащий этот ОНП**
+>* **`rs6657048` - Наименование SNP(ОНП), то есть `id` номер**
+>* **`1` - Хромосома содержащий этот SNP(ОНП)**
 >* **`947503` -  Местоположение в хромосоме**
 >* **`CC` - Аллели**
 
@@ -62,23 +64,51 @@ rs2488991	     1	        984254	         GT
 **КОД МОДЕЛИ** 
 
 ```
-//Азотистые основания:
+//Аденин                
+difference() {
+ translate ([dx/2, t, 0]){                                       
+  difference() { 
+    color() translate ([3, 0, 0]) cube ([x+7, y-2, z+1.55], center=true); //тело                      
+     rotate([180, 180, 0]) translate([41.2, 0, 0])
 
-//Аденин
-difference (){
-color("Lime") cube ([100,35,10]);
-rotate ([0,0,45])translate ([70,-80,-1])cube ([35,35,12]);
-}
+     union() {       
 
-//Тимин
-translate ([0,50,0]){
-color("Aqua") cube ([100,35,10]);
-color("Aqua") rotate ([0,0,45])translate ([70,-70.4,0])cube ([25,25,10]);
+     difference() {
+ 
+      union() {
+
+    translate ([dx/2, t, 0]) {   
+
+     color() translate ([0, 0, 5]) cube ([x-dx/2, y, z+4], center=true);    
+
+      translate([-24.9, 0, 0]) color() rotate ([0, 0, 45]) cube ([15, 15, z+8], center=true);     
+
+       translate([24.78, -9.5, -1]) cube([10, 19, 5]);
+  }
+ }   
+	translate([-32, 0, 0]) cube([21, 21, 10], center=true);
+
+   translate([-10, -9.5, 2]) cube([50, 19, 5]);
+  } 
+
+ }
+ rotate([0, 90, 0]) translate([0, 0, -22]) cylinder(6, 2.67, 2.67);
+   #translate([-8.5, -12, -1]) cube([42, 24, 9]); //space
+  }       
+ } 
 }
-//Связи между основаниями
-color("Orange") translate ([90,4,5]) rotate([0,90,0]) cylinder (55,4,4);
-color("Orange") translate ([90,31,5]) rotate([0,90,0]) cylinder (55,4,4);
-color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
+difference() {
+
+  #translate([39, -9.5, -4.29]) cube([12.5, 19, 8.55]);
+   rotate([0, 90, 0]) translate([0, -5, 47.12]) cylinder(5, 2.67, 2.67);
+    rotate([0, 90, 0]) translate([0, 5, 47.12]) cylinder(5, 2.67, 2.67);
+ }
+  rotate([90, 0, 0]) translate([1.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
+   rotate([90, 0, 0]) translate([40.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
+
+
+
+
 ```
 
 ![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin__Timin.png?raw=true)
@@ -87,14 +117,14 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 
 ## == CТРУКТУРА ДЛЯ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
 
-![](https://github.com/soda-io/DNA.research/blob/master/Img/docs/dna4.jpg?raw=true)
+![](https://github.com/soda-io/DNA.research/blob/master/Img/docs/DNA_construction.jpg?raw=true)
 
 
 ***
 
 ## == РИСКИ ==
 
-* **Отсутствие полных данных по ОНП**
+* **Отсутствие полных данных по SNP(ОНП)**
 
 ***
 
@@ -133,7 +163,7 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 
 ### Результаты
  
->Создали открытые данные по генам, которые известны, напечатали на 3D принтере модель участка ДНК.
+>Создали открытые данные по генам, которые известны, напечатали набор 3D - модели участка ДНК.
 
 ***
 
@@ -151,10 +181,10 @@ color("Orange") translate ([75,17,5]) rotate([0,90,0]) cylinder (55,4,4);
 
 ### {У}
 
-|    |    |    |    |
-|----|----|----|----|
-|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
-| [Leonid P](https://github.com/leonidprokopovich) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)|  [Sheroz K](https://github.com/SherozKarimov)  
+|    |    |    |    |    |
+|----|----|----|----|----|
+|![Leonid Prokopovich](https://avatars2.githubusercontent.com/u/6639503?s=74)|![MaximLoguncov](https://avatars2.githubusercontent.com/u/3838734?s=74)|![PavelShalaginov](https://avatars0.githubusercontent.com/u/3833771?s=74)|[!ArtemKvadzba](https://avatars2.githubusercontent.com/u/4639509?s=74)|![SherozKarimov](https://avatars0.githubusercontent.com/u/4226210?s=74)  
+| [Leonid P](https://github.com/leonidprokopovich) | [Maxim L](https://github.com/MaximLoguncov) | [Pavel S](https://github.com/PavelShalaginov)|[Artem K](https://github.com/ArtemKvadzba)|  [Sheroz K](https://github.com/SherozKarimov)  
 
 
 ### {Т}
