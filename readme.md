@@ -43,7 +43,7 @@
 ```
 rsid  chromosome  position  genotype  designations      
   
-rs1333049	  9 	22125503	 GC  -  Ишемическая болезнь сердца, у этого человека в 1.5 раза повышен риск заболевания.
+rs1333049	  9 	22125503	 GC  -  Ишемическая болезнь сердца, у этого человека в 1.5 раза повышен риск заболевания
 i3003626	  3	    46414947     II  -  устойчивость к Вич инфекциям, этот человек устойчив к ВИЧ инфекиям
 rs3128126	     1	        952073	         AG
 rs2710875	     1	        967643	         TT
@@ -143,7 +143,7 @@ difference() {
 
 ```
 
-![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/Adenin__Timin.png?raw=true)
+![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/ADENIN.png?raw=true)
 
 ***
 
