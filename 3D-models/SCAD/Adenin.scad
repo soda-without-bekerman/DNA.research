@@ -42,12 +42,12 @@ difference() {
 }
 difference() {
 
-  translate([39, -9.5, -4.29]) cube([11.92, 19, 8.55]);
-   rotate([0, 90, 0]) translate([0, -5, 47.92]) cylinder(5, 2.67, 2.67);
-    rotate([0, 90, 0]) translate([0, 5, 47.92]) cylinder(5, 2.67, 2.67);
+  #translate([39, -9.5, -4.29]) cube([12.5, 19, 8.55]);
+   rotate([0, 90, 0]) translate([0, -5, 47.12]) cylinder(5, 2.67, 2.67);
+    rotate([0, 90, 0]) translate([0, 5, 47.12]) cylinder(5, 2.67, 2.67);
  }
-  rotate([90, 0, 0]) translate([1.05, 0, -9.5]) cylinder(19, 4.29, 4.29);
-   rotate([90, 0, 0]) translate([40, 0, -9.5]) cylinder(19, 4.29, 4.29);
+  rotate([90, 0, 0]) translate([1.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
+   rotate([90, 0, 0]) translate([40.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
 //Буква А 
 difference() {
 union () {
@@ -59,10 +59,5 @@ union () {
    translate([p-6, 7.1, -2]) cube ([15, 2, 4]);
 }
 
-//difference() {
-// translate([p, -7.55, -1]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
-//  #rotate([0, 90, 0]) translate([0, 0, -15]) cylinder(8, 2.67, 2.67);
-
-//}
 
 
