@@ -167,6 +167,36 @@
 "position"  :"56751380",
 "genotype"  :"CT",
 },
+{
+"rsid"      :"rs17113634",
+"chromosome":"1",
+"position"  :"56751839",
+"genotype"  :"AA"
+},
+{
+"rsid"      :"rs12755760",
+"chromosome":"1",
+"position"  :"56754223",
+"genotype"  :"AC"
+},
+{
+"rsid"      :"rs12087121",
+"chromosome":"1",
+"position"  :"56754830",
+"genotype"  :"GG"
+},
+{
+"rsid"      :"rs2000141",
+"chromosome":"1",
+"position"  :"56756491",
+"genotype"  :"GG"
+},
+{
+"rsid"      :"rs2793673",
+"chromosome":"1",
+"position"  :"56756907",
+"genotype"  :"CC"
+},
 ]
 
 
