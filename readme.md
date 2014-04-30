@@ -1,5 +1,7 @@
 #![](https://avatars3.githubusercontent.com/u/4658189?s=30) [ DNA Research](https://github.com/soda-io/DNA/) | [Исследование ДНК](https://github.com/soda-io/DNA/)
 
+![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/shutterstock_DNA.jpg?raw=true)
+
 
 # == Что нас привело к исследованию? ==
 
@@ -7,6 +9,7 @@
 
 ##### Однажды, стало интересно, что такое ДНК код человека через {программирование}. Нашли пару дельных репозиториев на GitHub -> fork — нув их начали исследовать код. Теперь делимся с вами нашим исследованием.
 
+![](https://d262ilb51hltx0.cloudfront.net/max/1128/1*YtaFHnwSauF_sjwHL7r2kg.png)
 
 ***
 
