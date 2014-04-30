@@ -39,7 +39,7 @@
 > II  —  Аллели, генотип
 
 
-**↓**
+#                                         **↓**
 
 ### Вот интерпретация ДНК кода в 3D — модель
 ![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/orta.jpg?raw=true)
