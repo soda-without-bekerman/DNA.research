@@ -171,31 +171,103 @@
 "rsid"      :"rs17113634",
 "chromosome":"1",
 "position"  :"56751839",
-"genotype"  :"AA"
+"genotype"  :"AA",
 },
 {
 "rsid"      :"rs12755760",
 "chromosome":"1",
 "position"  :"56754223",
-"genotype"  :"AC"
+"genotype"  :"AC",
 },
 {
 "rsid"      :"rs12087121",
 "chromosome":"1",
 "position"  :"56754830",
-"genotype"  :"GG"
+"genotype"  :"GG",
 },
 {
 "rsid"      :"rs2000141",
 "chromosome":"1",
 "position"  :"56756491",
-"genotype"  :"GG"
+"genotype"  :"GG",
 },
 {
 "rsid"      :"rs2793673",
 "chromosome":"1",
 "position"  :"56756907",
-"genotype"  :"CC"
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs2793675",
+"chromosome":"1",
+"position"  :"56757968",
+"genotype"  :"AG",
+},
+{
+"rsid"      :"rs2994802",
+"chromosome":"1",
+"position"  :"56758973",
+"genotype"  :"TT",
+},
+{
+"rsid"      :"rs2793677",
+"chromosome":"1",
+"position"  :"56759031",
+"genotype"  :"AC",
+},
+{
+"rsid"      :"rs2793678",
+"chromosome":"1",
+"position"  :"56759929",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs12563597",
+"chromosome":"1",
+"position"  :"56760177",
+"genotype"  :"CT",
+},
+{
+"rsid"      :"rs2000142",
+"chromosome":"1",
+"position"  :"56760199",
+"genotype"  :"TT",
+},
+{
+"rsid"      :"rs2793679",
+"chromosome":"1",
+"position"  :"56760429",
+"genotype"  :"GG",
+},
+{
+"rsid"      :"rs2000144",
+"chromosome":"1",
+"position"  :"56760616",
+"genotype"  :"AA"
+},
+{
+"rsid"      :"rs12070360",
+"chromosome":"1",
+"position"  :"56762391",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs1341347",
+"chromosome":"1",
+"position"  :"56763781",
+"genotype"  :"AG",
+},
+{
+"rsid"      :"rs9436538",
+"chromosome":"1",
+"position"  :"56765611",
+"genotype"  :"CT",
+},
+{
+"rsid"      :"rs1417772",
+"chromosome":"1",
+"position"  :"56766626",
+"genotype"  :"TT",
 },
 ]
 
