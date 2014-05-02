@@ -142,7 +142,7 @@
 
 ![](http://www.thingiverse.com/img/thingiverse-logo-2013.png)
 
- 1. [Heather Dewey-Hagborg / GitHub](https://github.com/soda-io/DNA.research/raw/20299318a1c2cb15bc8ae0022926a5b99ae23d76/Present/DRAFT/hdew_github.png?raw=true)
+ 1. [Heather Dewey-Hagborg / GitHub](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/hdew_github.png?raw=true)
 
 ![](https://avatars0.githubusercontent.com/u/878273?s=460)
 
