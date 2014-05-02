@@ -119,7 +119,7 @@
 
  1. [SNPedia](www.snpedia.com)
 
-![](http://www.bioinformatics.org/w/images/a/a2/SNPedia_logo_155x46_transColor.png)
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SNPedia.com_Logo.svg/200px-SNPedia.com_Logo.svg.png)
 
  1. [GitHub](https://github.com)
 
