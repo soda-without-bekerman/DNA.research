@@ -11,29 +11,20 @@ echo "# == НАША ЦЕЛЬ =="
 echo
 echo "- Создать набор открытых данных по ДНК. "
 echo "- Научиться обрабатывать данные ДНК. "
-echo "-  "
-echo "- Структурирование информации в машиночитаемый вид"
+echo "- Напечатать набор для сборки элементов ДНК."
+echo "- А также набор 3D — моделей участка ДНК (конструктор)"
 echo 
 
-echo "# Данные по НПЗ России"
+echo ""
 echo
 
-for npz in `ls NPZ/NPZ.md`
+for DNAresearch in `ls Present/Docs`
 do
   echo
-  cat NPZ/NPZ.md/$npz
+  cat Present/Docs/$Docs
 done
 
 
 tail -29 readme.md
-
-echo "# Приложение 1. Карты."
-cat archive/Maps/readme.md | awk '{ gsub("\\]\\(","](archive/Maps/"); print }'
-
-echo "# Приложение 2. Датасет по НПЗ России."
-
-echo "\`\`\`json"
-cat NPZ/NPZ.json/NPZ.json
-echo "\`\`\`"
 
 
