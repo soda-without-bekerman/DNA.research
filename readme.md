@@ -132,7 +132,7 @@
 
  1. [23andme](www.23andme.com)
 
-![](http://member.clevergirlscollective.com/sites/default/files/embed/1/23andMe_logo_sm.jpg)
+![](http://member.clevergirlscollective.com/sites/default/files/embed/1/23andMe_logo_sm.jpg) 
 
  1. [3D Industry](http://www.3dindustry.ru/article/571/)
 
