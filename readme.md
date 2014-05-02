@@ -143,7 +143,7 @@
 ![](http://www.thingiverse.com/img/thingiverse-logo-2013.png)
 
  1. [Heather Dewey-Hagborg / GitHub](https://pbs.twimg.com/profile_images/378800000670405330/75e83ce29d3708dc5af091e2b7942d35_bigger.jpeg)
-
+ 
 ![](https://avatars0.githubusercontent.com/u/878273?s=460)
 
  1. [Kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
