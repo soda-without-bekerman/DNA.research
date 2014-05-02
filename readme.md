@@ -231,5 +231,5 @@
 
 # = АВТОРСКИЕ ПРАВА =
 
-Copyright (c) 2014 SODA LABS. The MIT License (MIT).
+**Copyright (c) 2014 SODA LABS. The MIT License (MIT).**
 ![](https://github.com/soda-io/DNA.research/raw/e889035e2aafef012ffb1d13f572cfb22f6c8f12/Present/DRAFT/CreativeCommons.jpg?raw=true)
