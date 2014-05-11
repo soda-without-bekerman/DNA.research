@@ -117,36 +117,36 @@
 
 ![](http://www.dcoe.mil/Libraries/Content_Images/slideshare_logo.png)
 
- 1. [SNPedia](www.snpedia.com)
+ 2. [SNPedia](www.snpedia.com)
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SNPedia.com_Logo.svg/200px-SNPedia.com_Logo.svg.png)
 
- 1. [GitHub](https://github.com)
+ 3. [GitHub](https://github.com)
 
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb2vruI-p6k7rkOyD_7zkBgMGoXVOsX1rKyqs4EeQWwDY-08u7)
 
- 1. [Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%
+ 4. [Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%
 83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0)
 
 ![](http://www.anne-jensen.de/uploads/1/3/5/6/13562016/4652797.png?186)
 
- 1. [23andme](www.23andme.com)
+ 5. [23andme](www.23andme.com)
 
 ![](http://member.clevergirlscollective.com/sites/default/files/embed/1/23andMe_logo_sm.jpg) 
 
- 1. [3D Industry](http://www.3dindustry.ru/article/571/)
+ 6. [3D Industry](http://www.3dindustry.ru/article/571/)
 
 ![](http://www.3dindustry.ru/img/3dindustry-logo.png)
 
- 1. [Thingiverse](http://www.thingiverse.com/thing:298475/#files)
+ 7. [Thingiverse](http://www.thingiverse.com/thing:298475/#files)
 
 ![](http://www.thingiverse.com/img/thingiverse-logo-2013.png)
 
- 1. [Heather Dewey-Hagborg / GitHub](https://github.com/soda-io/DNA.research/blob/1c47062838bd85c62dd2e26d759df915ffac0987/Present/DRAFT/ndewey.jpeg?raw=true)
+ 8. [Heather Dewey-Hagborg / GitHub](https://github.com/soda-io/DNA.research/blob/1c47062838bd85c62dd2e26d759df915ffac0987/Present/DRAFT/ndewey.jpeg?raw=true)
  
 ![](https://avatars0.githubusercontent.com/u/878273?s=460)
 
- 1. [Kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
+ 9. [Kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
 
 ![](http://s609.zouo.ru/assets/images/photo/image-march/cc%20na%20os/prezident.jpg)
 
