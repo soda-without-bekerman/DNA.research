@@ -76,12 +76,19 @@
 # == ИНСТРУМЕНТЫ ==
 
  1. OpenSCAD
+
     ![](http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OpenSCAD-logo.png/100px-OpenSCAD-logo.png)
+
  2. Repetier Host
+
     ![](https://pbs.twimg.com/profile_images/378800000857888268/WUsPyase_normal.png)
+
  3. Medium.com
+
     ![](https://d262ilb51hltx0.cloudfront.net/fit/c/144/144/0*yKEEuabhScdvVUo3.jpeg)
+
  4. JSON
+
     ![](http://a4.mzstatic.com/us/r30/Purple/v4/52/83/5e/52835e8e-65f8-85da-b21c-789e5a96eeb3/JSONToolbox.175x175-75.png)
 
 
@@ -91,9 +98,11 @@
 # == ОБОРУДОВАНИЕ ==
 
 1. 3D printer MendelMax 1.5+
+   
    ![](http://static.makerwise.com/static/img/3d-printer/orig/331/ultibots-mendelmax-15-01.jpg)
 
 2. 3D printer UP! mini
+   
    ![](http://wellingtonmakerspace.com/wp-content/uploads/2014/02/up-mini.jpg)
 
 
@@ -105,31 +114,40 @@
 ###  digital / paper
  
  1. [Slideshare](http://www.slideshare.net/sheriakosh/ss-33235731)
+    
     ![](http://www.dcoe.mil/Libraries/Content_Images/slideshare_logo.png)
 
  2. [SNPedia](www.snpedia.com)
+    
     ![](http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SNPedia.com_Logo.svg/200px-SNPedia.com_Logo.svg.png)
 
  3. [GitHub](https://github.com)
+    
     ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb2vruI-p6k7rkOyD_7zkBgMGoXVOsX1rKyqs4EeQWwDY-08u7)
 
  4. [Wikipedia](http://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B7%D0%BE%D0%BA%D1%81%D0%B8%D1%80%D0%B8%D0%B1%D0%BE%D0%BD%D1%
 83%D0%BA%D0%BB%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0)
+    
     ![](http://www.anne-jensen.de/uploads/1/3/5/6/13562016/4652797.png?186)
 
  5. [23andme](www.23andme.com)
+    
     ![](http://member.clevergirlscollective.com/sites/default/files/embed/1/23andMe_logo_sm.jpg) 
 
  6. [3D Industry](http://www.3dindustry.ru/article/571/)
+    
     ![](http://www.3dindustry.ru/img/3dindustry-logo.png)
 
  7. [Thingiverse](http://www.thingiverse.com/thing:298475/#files)
+
     ![](http://www.thingiverse.com/img/thingiverse-logo-2013.png)
 
  8. [Heather Dewey-Hagborg / GitHub](https://github.com/hdeweyh/strangerVisions)
+
     ![](https://pbs.twimg.com/profile_images/378800000670405330/75e83ce29d3708dc5af091e2b7942d35_bigger.jpeg)
 
  9. [Kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
+
     ![](http://s609.zouo.ru/assets/images/photo/image-march/cc%20na%20os/prezident.jpg)
 
 
@@ -150,7 +168,7 @@
 
 
 
-# == ПЛАН НА БУДУЩЕЕ ==
+# == ПЛАНЫ НА БУДУЩЕЕ ==
 
 * Создать лабораторию по анализу ДНК человека указав на предрасположенности и заболевания с вероятностью
 
@@ -175,10 +193,10 @@
 # == РЫНОК ==
 
 * Объем инвестиций в исследовании ДНК:
-  1. Общий объем рынка в мире (2014 год) — $25-30 млрд
-  2. Предполагаемые темпы роста — 15-30% в год (оценка PriceWaterHouse)
-* Росси / Мир
-  * Возможная доля рынка для российского производителя — 1-3%
+  1. Общий объем рынка в мире (2014 год) — **$25-30 млрд**
+  2. Предполагаемые темпы роста — ***15-30%** в год (оценка PriceWaterHouse)
+* **Росси** / Мир
+  * Возможная доля рынка для российского производителя — **1-3%**
 
 
 ***
@@ -193,7 +211,7 @@
 
 * На данный момент известно лишь около 16% генов
 * Молекула ДНК способна хранить до 2 бит на каждом нуклеотиде.
-* Полный набор ДНК человека ~ 455 экзабайт (100 млрд DVD-дисков). ~1 млрд гигабайт.
+* Полный набор ДНК человека ~ 455 экзабайт (100 млрд DVD-дисков). ~**1 млрд гигабайт.**
 
 
 ***
