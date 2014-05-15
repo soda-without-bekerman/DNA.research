@@ -1283,7 +1283,12 @@
 "position"  :"57066988",
 "genotype"  :"GG",
 },
-
+{
+"rsid"      :"rs6663578",
+"chromosome":"1",
+"position"  :"57068107",
+"genotype"  :"CC",
+},
 ]
 
 
