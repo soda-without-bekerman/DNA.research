@@ -1289,6 +1289,30 @@
 "position"  :"57068107",
 "genotype"  :"CC",
 },
+{
+"rsid"      :"rs12079701",
+"chromosome":"1",
+"position"  :"57071669",
+"genotype"  :"TT",
+},
+{
+"rsid"      :"rs2404985",
+"chromosome":"1",
+"position"  :"57074397",
+"genotype"  :"CC",
+},
+{
+"rsid"      :"rs12137489",
+"chromosome":"1",
+"position"  :"57081328",
+"genotype"  :"TT",
+},
+{
+"rsid"      :"rs2404987",
+"chromosome":"1",
+"position"  :"57088605",
+"genotype"  :"CC",
+},
 ]
 
 
