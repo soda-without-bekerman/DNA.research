@@ -1,6 +1,6 @@
-#![](https://avatars3.githubusercontent.com/u/4658189?s=30) [ DNA Research](https://github.com/soda-io/DNA/) | [Исследование ДНК](https://github.com/soda-io/DNA/)
+# ![](https://avatars3.githubusercontent.com/u/4658189?s=30) [ DNA Research](https://github.com/soda-io/DNA/) | [Исследование ДНК](https://github.com/soda-io/DNA/)
 
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/shutterstock_DNA.jpg?raw=true)
+ ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/shutterstock_DNA.jpg?raw=true)
 
 
 # =Что нас привело к исследованию?=
