@@ -9,7 +9,7 @@
 
 ##### Однажды, стало интересно, что такое ДНК код человека через {программирование}. Нашли пару дельных репозиториев на GitHub -> fork — нув их начали исследовать код. Теперь делимся с вами нашим исследованием.
 
-![](https://d262ilb51hltx0.cloudfront.net/max/1128/1*YtaFHnwSauF_sjwHL7r2kg.png)
+  ![](https://d262ilb51hltx0.cloudfront.net/max/1128/1*YtaFHnwSauF_sjwHL7r2kg.png)
 
 ***
 
@@ -19,7 +19,8 @@
 * Научиться обрабатывать данные ДНК.
 * Напечатать набор для сборки элементов ДНК.
 * А также набор 3D — моделей участка ДНК (конструктор)
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/seqen_DNA_ION_TORRENT.png?raw=true)
+ 
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/seqen_DNA_ION_TORRENT.png?raw=true)
 
 ***
 # == Пример ДНК кода ==
@@ -28,7 +29,7 @@
 | rs1333049   |    9     |22125503|  GC   |Ишемическая болезнь сердца, у этого человека в 1.5 раза повышен риск заболевания
 | i3003626    |    3     |46414947|  II   |устойчивость к ВИЧ инфекциям, этот человек устойчив к ВИЧ инфекциям
 
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/DNA_HEATHER.jpg?raw=true)
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/DNA_HEATHER.jpg?raw=true)
 
 > i3003626  —  Наименование SNP(ОНП), то есть id - номер
 
@@ -42,27 +43,32 @@
 **↓**
 
 ### Интерпретация ДНК кода в 3D—модель
-![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/orta.jpg?raw=true)
+  
+  ![](https://github.com/soda-io/DNA.research/blob/master/Img/3D/orta.jpg?raw=true)
 
 ***
 
 # == Часть ДНК кода в JSON формате ==
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/Data_SNPs_JSON.png?raw=true)
+  
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/Data_SNPs_JSON.png?raw=true)
 
 ***
 
 
 # == МАКЕТ СОЗДАНИЯ 3D-МОДЕЛЕЙ ==
-![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*_LkSyQeBs54GvDdzybWxLQ.jpeg)
+  
+  ![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*_LkSyQeBs54GvDdzybWxLQ.jpeg)
 
 ***
 
 # == Часть кода 3D-модели (конструктора) ==
-![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*bbWTqldY7RBKVleEXNmBlw.png)
+  
+  ![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*bbWTqldY7RBKVleEXNmBlw.png)
 
 
 ### == 3D — модель (конструктора) ==
-![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*Z-lkSRbYBs91uRxWOsfEgw.png)
+  
+  ![](https://d262ilb51hltx0.cloudfront.net/max/2000/1*Z-lkSRbYBs91uRxWOsfEgw.png)
 
 ***
 
@@ -172,11 +178,11 @@
 
 * Создать лабораторию по анализу ДНК человека указав на предрасположенности и заболевания с вероятностью
 
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/future_labs.png?raw=true)
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/future_labs.png?raw=true)
 
 * С самыми новейшими методами Секвенирование Нового Поколения (СНП)
 
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/future_labs2.png?raw=true)
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/future_labs2.png?raw=true)
 
 * Это даст большой скачок, в развитии:
  * Медицины
@@ -184,7 +190,7 @@
  * Образования
  * Фармацевтики
 
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/seqen_DNA_ION_TORRENT.png?raw=true)
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/seqen_DNA_ION_TORRENT.png?raw=true)
 
 
 
@@ -277,4 +283,5 @@
 # = АВТОРСКИЕ ПРАВА =
 
 **Copyright (c) 2014 SODA LABS. The MIT License (MIT).**
-![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/CC.png?raw=true)
+  
+  ![](https://github.com/soda-io/DNA.research/blob/master/Present/DRAFT/CC.png?raw=true)
