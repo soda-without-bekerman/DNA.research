@@ -11,7 +11,7 @@ p=18.5;  //Перемещине буквы А по плоскости
 difference() {
  translate ([dx/2, t, 0]){                                       
   difference() { 
-    color() translate ([3, 0, 0]) cube ([x+7, y-2, z+1.55], center=true); //тело                      
+    color() translate ([3, 0, 0]) cube ([x+7, y-2, z+1.55], center=true); //основное тело                     
      rotate([180, 180, 0]) translate([41.2, 0, 0])
 
      union() {       
@@ -36,14 +36,14 @@ difference() {
 
  }
  rotate([0, 90, 0]) translate([0, 0, -22]) cylinder(6, 2.67, 2.67);
-   #translate([-8.5, -12, -1]) cube([42, 24, 9]); //space
+   #translate([-8.5, -12, -1]) cube([42, 24, 9]); //куб для поля с буквой
   }       
  } 
 }
 difference() {
 
   #translate([39, -9.5, -4.29]) cube([12.5, 19, 8.55]);
-   rotate([0, 90, 0]) translate([0, -5, 47.12]) cylinder(5, 2.67, 2.67);
+   rotate([0, 90, 0]) translate([0, -5, 47.12]) cylinder(5, 2.67, 2.67); 
     rotate([0, 90, 0]) translate([0, 5, 47.12]) cylinder(5, 2.67, 2.67);
  }
   rotate([90, 0, 0]) translate([1.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
