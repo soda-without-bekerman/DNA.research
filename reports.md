@@ -174,7 +174,7 @@
 
 1. SNPedia (www.snpedia.com)
 2. Github  (www.github.com)
-3. Wikipedia (ru.wikipedia.org)
+3. Wikipedia (www.ru.wikipedia.org)
 4. 23andme   (www.23andme.com)
 5. 3D Industry (www.3dindustry.ru)
 6. Thingiverse (www.thingiverse.com)
