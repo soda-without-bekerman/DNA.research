@@ -260,7 +260,7 @@
 
 ***
 
-
+# == [F.A.Q.](https://github.com/soda-io/DNA.research/blob/master/F.A.Q.md) ==
 
 # == СОАВТОРЫ ==
 
