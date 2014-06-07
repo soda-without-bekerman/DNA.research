@@ -1,4 +1,4 @@
-//Азотистые основания: Аденин
+//Азотистые основания: Тимин
 x=50;     
 y=21;     
 z=7;      
@@ -6,7 +6,6 @@ t=0;
 z2=2.5;
 edge=13.49;        
 dx=19.0209;   
-p=18.5;  //Перемещине буквы А по плоскости
                 
 difference() {
  translate ([dx/2, t, 0]){                                       
@@ -49,16 +48,15 @@ difference() {
 //круг
   rotate([90, 0, 0]) translate([1.4, 0, -9.5]) cylinder(19, 4.29, 4.29); 
    rotate([90, 0, 0]) translate([40.4, 0, -9.5]) cylinder(19, 4.29, 4.29);
-//Буква А 
-difference() {
-union () {
- translate([p, -7.55, -1]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
-  translate([p, -6.8, 1]) rotate ([45, 90, 22]) cube ([2, 16, 2]);
-   translate([p-3.8, 2, -1]) cube ([9, 2, 2]);
-}
- translate([p-6, -9, -2]) cube ([15, 2, 4]);
-   translate([p-6, 7.1, -2]) cube ([15, 2, 4]);
-}
+
+//буква Т означает Тимин
+xx=2;
+e=12;
+dt=5; //перемещение буквы T по оси X
+translate([dt, -6, 0]) cube([xx, e+0.7, xx]);
+translate([dt-4.9, -6, 0]) cube([e, xx, xx]);
+
+
 
 
 
