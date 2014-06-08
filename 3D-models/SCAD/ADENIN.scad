@@ -5,7 +5,7 @@ y=19;
 z=9;
 dx=9; //Длина разъема магнита
 d=2.67; //Диаметр гнезда магнита
-p=18.5;  //Перемещине буквы А по плоскости
+p=6;  //Перемещине буквы А по плоскости
 difference() {
 union() { 
  #translate([0, 0, 0]) cube ([x-2, y, z-0.3], center=true);
@@ -35,9 +35,9 @@ rotate([90, 0, 0]) translate([26.3, 0, -9.5]) cylinder(19, 4.4, 4.4);
 //Буква А 
 difference() {
 union () {
- translate([p, -7.55, -1]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
-  translate([p, -6.8, 1]) rotate ([45, 90, 22]) cube ([2, 16, 2]);
-   translate([p-3.8, 2, -1]) cube ([9, 2, 2]);
+ translate([p, -7.55, 0]) rotate ([0, 0, 22]) cube ([2, 16, 2]);
+  translate([p, -6.8, 2]) rotate ([45, 90, 22]) cube ([2, 16, 2]);
+   translate([p-3.8, 2, 0]) cube ([9, 2, 2]);
 }
  translate([p-6, -9, -2]) cube ([15, 2, 4]);
    translate([p-6, 7.1, -2]) cube ([15, 2, 4]);
