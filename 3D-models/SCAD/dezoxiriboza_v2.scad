@@ -4,27 +4,28 @@ g=3.5; //глубина дырок
 translate ([0,79,0]) {
 difference () {
 translate([0,-50,0])cylinder(z,20,20, $fn=6);
-translate ([0,-50,-0.1])cylinder(4.2,10.35,10.35);
+translate ([-16,-60,2])cube([20.35,20.35,4.2]);
+translate ([0,-50,2])cylinder(4.2,10.35,10.35);
 translate ([-7,0,1]) {
 rotate([0, 90, 0]) translate([-3.5,-54.6,-17+g]) cylinder(9,2.65,2.65);        
 rotate([0, 90, 0]) translate([-3.5,-45.6,-17+g]) cylinder(9,2.65,2.65);          
 }  
 translate ([9.3,-62.2,4.5])rotate([0,90,-30])cylinder (4.5+g,2.65,2.65);
 translate ([14,-54.2,4.5])rotate([0,90,-30])cylinder (4.5+g,2.65,2.65);
+translate ([8,-50,4.5])rotate([0,90,-30])cylinder (4.5+g,1,1);
 translate ([-28,-73,-1])cube ([20,45,11]);
 
 translate ([2,-80,1]) {
 translate ([4,40,g])rotate ([90,0,120])cylinder(4.5+g,2.65,2.65);   
 translate ([4+4.7,37.5+-9+g,g])rotate ([90,0,120])cylinder(4.5+3.5,2.65,2.65); 
+translate ([2+4.7,36+-9+g,g])rotate ([90,0,120])cylinder(4.5+3.5,1,1); 
   }  
  }
 difference () {
 translate ([-25,-67.4,0])cube ([20,34.7,z]);
-translate ([0,-50,-0.1])cylinder(4.2,10.35,10.35);
-translate ([-7,0,1]) {
-rotate([0, 90, 0]) translate([-3.5,-54.6,-17+g]) cylinder(9,2.65,2.65);        
-rotate([0, 90, 0]) translate([-3.5,-45.6,-17+g]) cylinder(9,2.65,2.65);          
-}  
+translate ([-26,-61.2,2])cube([30.35,22,4.2]);
+translate ([0,-50,2])cylinder(4.2,10.35,10.35);
+
 
 translate ([-35,-59.6,-1])cube ([20,19,12]);
  }
