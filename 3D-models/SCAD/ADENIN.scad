@@ -23,7 +23,6 @@ union() {
 
     rotate([0, 90, 0]) translate([0, 0, -34.8]) cylinder(dx, d, d);
 
-     rotate([0, 90, 0]) translate([0, 0, 33.1]) cylinder(dx, d,  d);
 
 // #rotate([0, 90, 0]) translate([0, -4.5, 33.1]) cylinder(dx, d,  d);
 }
