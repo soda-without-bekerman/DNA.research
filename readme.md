@@ -87,7 +87,7 @@
 
  2. Repetier Host
 
-    ![](https://pbs.twimg.com/profile_images/378800000857888268/WUsPyase_normal.png)
+    ![](http://reprapzone.ru/wp-content/uploads/2013/12/Repetier-logo.png)
 
  3. Medium.com
 
@@ -150,11 +150,11 @@
 
  8. [Heather Dewey-Hagborg / GitHub](https://github.com/hdeweyh/strangerVisions)
 
-    ![](https://pbs.twimg.com/profile_images/378800000670405330/75e83ce29d3708dc5af091e2b7942d35_bigger.jpeg)
+    
 
  9. [Kremlin.ru](http://www.kremlin.ru/transcripts/20796#sel=590:1,590:86)
-
-    ![](http://s609.zouo.ru/assets/images/photo/image-march/cc%20na%20os/prezident.jpg)
+ 
+    ![](http://news.kremlin.ru/static/img/logo/square.gif)
 
 
 ***
