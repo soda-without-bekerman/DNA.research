@@ -119,7 +119,7 @@
  
 ###  digital / paper
  
- 1. [Slideshare](http://www.slideshare.net/sheriakosh/ss-33235731)
+ 1. [Slideshare](https://cloud.lets-focus.com/live/include_index/images/startpage/colob.png)
     
     ![](http://www.dcoe.mil/Libraries/Content_Images/slideshare_logo.png)
 
@@ -148,7 +148,7 @@
 
     ![](http://www.thingiverse.com/img/thingiverse-logo-2013.png)
 
- 8. [Heather Dewey-Hagborg / GitHub](https://github.com/hdeweyh/strangerVisions)
+ 8. [Heather Dewey-Hagborg / GitHub](https://raw.githubusercontent.com/soda-io/DNA.research/1c47062838bd85c62dd2e26d759df915ffac0987/Present/DRAFT/ndewey.jpeg?token=AEB8olHO9oOwYzyh5LufDfSREQqC2t5Jks5UZ70CwA%3D%3D)
 
     
 
